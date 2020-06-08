@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mediahub", "mediahub\mediahub.csproj", "{AC98B08D-7FEE-48E4-802E-115E243D684D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC98B08D-7FEE-48E4-802E-115E243D684D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC98B08D-7FEE-48E4-802E-115E243D684D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC98B08D-7FEE-48E4-802E-115E243D684D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC98B08D-7FEE-48E4-802E-115E243D684D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E951A9FD-0262-4828-8FA6-2CEFA3BAC222}
+	EndGlobalSection
+EndGlobal
