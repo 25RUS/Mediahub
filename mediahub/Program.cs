@@ -6,7 +6,13 @@ namespace mediahub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Shell shell = new Shell();
+            shell.Hello();
+
+            HttpRequest httpRq = new HttpRequest();
+            httpRq.ClientInit();
+
+
         }
     }
 }
